@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [e-schedule](https://github.com/Virginia-Alvarez/e-schedule)
 
-- 🌱 I’m currently learning **nest js, Tailwind**
-
 - 💬 Ask me about **React, Javascript, Node js, HTML, Sass**
 
 <h3 align="left">Connect with me:</h3>
