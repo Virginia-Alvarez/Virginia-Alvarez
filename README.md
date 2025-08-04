@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Virginia</h1>
 <h3 align="center">A junior frontend developer</h3>
 
-- 🔭 I’m currently working on [e-schedule](https://github.com/Virginia-Alvarez/e-schedule)
+- 🔭 I’m currently working on [e-schedule](https://github.com/Virginia-Alvarez/virs-bake)
 
 - 💬 Ask me about **React, Javascript, Node js, HTML, Sass**
 
